@@ -613,7 +613,7 @@ img.issue-icon.warning {
 }
 
 #player p.choice {
-  text-align: center;
+  text-align: left;
 }
 
 #player p.choice a {
@@ -623,8 +623,7 @@ img.issue-icon.warning {
 }
 
 #player p.choice a:hover {
-  color: #555;
-  text-decoration: underline;
+  color: #F53;
 }
 
 #player p.tags {
