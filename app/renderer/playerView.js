@@ -175,7 +175,7 @@ function addTags(tags)
 
 function addChoice(choice, callback)
 {
-    var $choice = $("<a href='#'>"+choice.text+"</a>");
+    var $choice = $("<a href='#'>★ "+choice.text+"</a>");
 
     // Append the choice
     var $choicePara = $("<p class='choice'></p>");
